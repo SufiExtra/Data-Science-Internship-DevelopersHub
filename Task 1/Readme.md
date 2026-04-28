@@ -1,55 +1,32 @@
-# Task 1: Exploring and Visualizing the Iris Dataset
-
-## 📌 Objective
-The objective of this task is to understand how to load, inspect, and visualize a dataset using Python libraries such as pandas, matplotlib, and seaborn.
+## 📌 Task Objective
+The objective of this task is to explore and analyze the Iris dataset using Exploratory Data Analysis (EDA) techniques and build a basic machine learning model to classify different iris flower species.
 
 ---
 
-## 📊 Dataset Used
-- Iris Dataset (built-in seaborn dataset)
-- Contains 150 records and 5 columns:
-  - sepal_length
-  - sepal_width
-  - petal_length
-  - petal_width
-  - species
+## 🛠 Approach
+
+- Loaded the Iris dataset using seaborn
+- Performed data inspection (shape, columns, head, info, describe)
+- Checked for missing values and duplicate data
+- Conducted Exploratory Data Analysis (EDA) using:
+  - Scatter plots
+  - Histograms
+  - Box plots
+- Analyzed relationships between features
+- Built a Logistic Regression model for classification
+- Evaluated the model using accuracy score and confusion matrix
 
 ---
 
-## 🛠️ Tools & Libraries
-- Python
-- pandas
-- matplotlib
-- seaborn
+## 📊 Results and Insights
 
----
-
-## 📌 Steps Performed
-1. Loaded dataset using seaborn
-2. Explored dataset structure using `.shape`, `.columns`, `.head()`
-3. Performed data inspection
-4. Created visualizations:
-   - Scatter plots (relationship analysis)
-   - Histogram (data distribution)
-   - Box plot (outliers and spread)
-
----
-
-## 📈 Visualizations
-- Scatter Plot: Sepal Length vs Petal Length
-- Scatter Plot: Sepal Width vs Petal Width
-- Histogram: Distribution of Sepal Length
-- Box Plot: Sepal Width by Species
-
----
-
-## 🎯 Key Insights
-- The dataset is clean with no missing values.
-- Setosa species is clearly separable from other species in most visualizations.
-- Petal length and petal width show strong correlation.
-- Most values are fairly normally distributed.
+- The dataset was clean with no missing or duplicate values
+- Petal features showed strong patterns for distinguishing species
+- Setosa species was clearly separable from others in visualizations
+- The Logistic Regression model achieved high accuracy on test data
+- Confusion matrix showed correct classification of all species in the test set
 
 ---
 
 ## 🚀 Conclusion
-This analysis provides a basic understanding of the Iris dataset and demonstrates how visualization helps in identifying patterns, relationships, and distributions in data.
+This task provided hands-on experience in data exploration, visualization, and machine learning. It helped in understanding how features influence classification and how EDA supports model building.
