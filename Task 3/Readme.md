@@ -28,6 +28,7 @@ The goal of this task is to predict whether a bank customer is likely to leave t
   - RMSE
 - Analyzed feature importance using Random Forest
 
+
 📈 Results & Insights
 
 - Random Forest achieved ~86.6% accuracy, outperforming Logistic Regression (~81.1%).
