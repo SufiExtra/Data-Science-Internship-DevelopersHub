@@ -5,6 +5,20 @@ The projects cover Machine Learning, Data Analysis, Data Visualization, Classifi
 
 ---
 
+# 🔗 Project Links
+
+- [Task 1 — Exploring and Visualizing a Simple Dataset](https://github.com/SufiExtra/Data-Science-Internship-DevelopersHub/tree/main/Task%201)
+
+- [Task 2 — Credit Risk Prediction](https://github.com/SufiExtra/Data-Science-Internship-DevelopersHub/tree/main/Task%202)
+
+- [Task 3 — Customer Churn Prediction](https://github.com/SufiExtra/Data-Science-Internship-DevelopersHub/tree/main/Task%203)
+
+- [Task 4 — Insurance Claim Amount Prediction](https://github.com/SufiExtra/Data-Science-Internship-DevelopersHub/tree/main/Task%204)
+
+- [Task 5 — Personal Loan Acceptance Prediction](https://github.com/SufiExtra/Data-Science-Internship-DevelopersHub/tree/main/Task%205)
+
+---
+
 # 🛠️ Technologies Used
 
 - Python
